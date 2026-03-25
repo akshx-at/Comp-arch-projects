@@ -60,3 +60,11 @@ Refer to the documentation inside `out-of-order-RISC-V_processor/docs/` and any 
 ## Why This Repository Matters
 
 This project emphasizes hardware/software performance thinking rather than only functional correctness. It demonstrates experience with processor pipelines, verification, benchmarking, and the documentation needed to explain a non-trivial architecture project clearly.
+
+## Key Skills Gained
+
+- Designing and reasoning about out-of-order processor pipelines
+- Implementing and organizing non-trivial SystemVerilog hardware projects
+- Working with simulation, synthesis, and verification flows
+- Analyzing benchmark behavior and connecting design choices to performance
+- Communicating complex architecture work through reports, diagrams, and technical documentation
