@@ -1,0 +1,8 @@
+*.log
+*.jou
+*.wlf
+*.vcd
+*.fsdb
+*.o
+*.pyc
+__pycache__/
